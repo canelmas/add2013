@@ -1,6 +1,6 @@
-Android Developer Days 2013 - Working With Fragments
+ADD 2013 - Working With Fragments
 =======
 
-Slides &amp; Demos
+Android Developer Days 2013 - Slides &amp; Demos
 
-for more, canelm@gmail.com
+for more shoot me a mail, canelm@gmail.com
