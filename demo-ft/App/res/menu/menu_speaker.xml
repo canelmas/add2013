@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_item_send_mail"
+          android:title="Send Mail"
+          android:icon="@android:drawable/ic_menu_send"
+          android:orderInCategory="100"
+          android:showAsAction="always"/>
+
+    <item
+            android:id="@+id/menu_item_send_mail"
+            android:title=""
+            android:icon="@android:drawable/ic_menu_add"
+            android:orderInCategory="100"
+            android:showAsAction="always"/>
+
+    <item android:id="@+id/menu_item_send_mail"
+          android:title=""
+          android:icon="@android:drawable/sym_contact_card"
+          android:orderInCategory="100"
+          android:showAsAction="always"/>
+
+</menu>
